@@ -1,4 +1,5 @@
-import './styles.scss';
-import 'bootstrap';
+import "./styles.scss";
+import "bootstrap";
+import init from "./init";
 
-console.log("Hello World!");
+init();
